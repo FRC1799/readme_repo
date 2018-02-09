@@ -1,3 +1,5 @@
+## list of Commands we might use in Teleop mode 
+
 | S.no | Command | Keys | used in autonomous mode |java Command covering this|comments|
 |------|---------|------|-------------------------|--------|--|
 1|Forward drive|Joystick `-Y`|yes|DriveWithJoystick|also look at autonomous mode commands|
@@ -23,7 +25,7 @@
 21|camera ||yes|Not neeed in teleop mode||
 
 
-Below is the list of Commands we might use in Autonomous mode 
+## list of Commands we might use in Autonomous mode 
 
 | S.no | Command | Keys | used in autonomous mode |java Command covering this|comments|
 |------|---------|------|-------------------------|--------|--|
