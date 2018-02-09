@@ -27,7 +27,7 @@ Below is the list of Commands we might use in Autonomous mode
 
 | S.no | Command | Keys | used in autonomous mode |java Command covering this|comments|
 |------|---------|------|-------------------------|--------|--|
-`- 1`|Autonomous Mode Drive And scale|Joystick `-Y`|yes|Autonomous Mode Drive past the line And place a cude on scale with in 15 seconds |
+`- 1`|Autonomous Mode Drive And scale|Joystick `-Y`|yes|AutonomousModeDriveAndscale|Autonomous Mode Drive past the line And place a cude on scale with in 15 seconds |
 `0`|Auto Drive And Shoot|Joystick `-Y`|yes|AutoDriveForward|Auto Drive And Shoot cube to PORTAL in last one feet|
 1|Forward drive|Joystick `-Y`|yes|AutoDriveForward|Auto Drive x distance in 20 ms |
 2|backward drive|Joystick `+Y`|yes|AutoDriveBack|Auto Drive x distance in 20 ms|
