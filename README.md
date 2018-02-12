@@ -16,4 +16,15 @@ https://github.com/CurtinFRC/2018-PowerUp <br>
 https://github.com/wh1ter0se/PowerUp-2018 <br>
 
 ### Official Repository of WPILibJ and simulation
-https://github.com/wpilibsuite/allwpilib
+https://github.com/wpilibsuite/allwpilib  <br>
+https://github.com/Archytas-6933/2018  <br>
+https://github.com/EMU4729/FRC2018v2  <br>
+https://github.com/daelanr/MetalMoose2018  <br>
+https://github.com/WHS-FRC/whs_frc_2018  <br>
+https://github.com/FRC-Team2655/Robot2018  <br>
+
+
+
+https://github.com/MillenniumFalcons/FRC_Java_Tutorials
+https://github.com/KINGTeC2169/FRC-Basic-Robot-Project
+
